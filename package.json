@@ -10,10 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "after-load": "^1.0.4",
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "dotenv": "^4.0.0",
     "emotional": "0.0.3",
-    "express": "^4.15.5",
+    "express": "^4.18.2",
     "google-spreadsheet": "^2.0.4",
     "html-to-text": "^3.3.0",
     "node-wikipedia": "0.0.2",
