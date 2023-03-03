@@ -15,7 +15,7 @@
     "emotional": "0.0.3",
     "express": "^4.15.5",
     "google-spreadsheet": "^2.0.4",
-    "html-to-text": "^3.3.0",
+    "html-to-text": "^9.0.4",
     "node-wikipedia": "0.0.2",
     "sentence-splitter": "^2.3.2",
     "sentence-tokenizer": "^1.0.0",
